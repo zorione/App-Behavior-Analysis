@@ -1,5 +1,5 @@
 # App Behaviour Analysis
-This repo consists of the App Behaviour Analysis Case Study from the course, Machine Learning Practical: 6 Real-World Applications.
+This repo consists of the App Behaviour Analysis Case Study 
 
 ## Problem 
 To predict which users will not subscribe to the paid membership of the Application involved, with the help of various features provided for each user, so that greater marketing efforts can go into trying to convert those users to Paid Users.
